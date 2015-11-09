@@ -1,0 +1,9 @@
+WARNING: THIS PACKAGE IS DEPRECATED. PLEASE TRY https://addons.mozilla.org/zh-tw/firefox/addon/proxy-selector/[Proxy Selector].
+
+= proxy_switch
+
+----
+$ cfx xpi
+----
+
+Then open firefox, install the Add-on.
